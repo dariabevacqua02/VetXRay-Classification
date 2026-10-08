@@ -1,0 +1,21 @@
+Core Data & Math
+- numpy
+- pandas
+
+Deep Learning & Vision
+- torch
+- torchvision
+- timm
+- albumentations
+- opencv-python
+
+Medical Imaging
+- pydicom
+
+Metrics & Tracking
+- scikit-learn
+- wandb
+
+Utils & Visualization
+- matplotlib
+- tqdm
