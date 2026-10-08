@@ -2,12 +2,15 @@
 
 Code accompanying the Master's thesis in Data Science, University of Catania (A.Y. 2025/2026).
 
+## Dataset
+Banzato, T., Burti, S., Zotti, A., & Wodzinski, M. (2026). VetXRay - A Dataset of 9,882 Manually Annotated Canine and Feline Thoracic Radiographs with Lesion and Image Quality Annotations [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.19051776
+
 ## Overview
 
 This project studies the automatic classification of canine and feline thoracic radiographs on two tasks:
 
 - **Disease classification**: a multi-label problem over 9 pathologies (cardiomegaly, alveolar pattern, bronchial pattern, pleural effusion, mass, interstitial pattern, pneumothorax, pleural mineralization, megaesophagus).
-- **Breed classification**: a multi-class problem over 10 breeds. To the best of our knowledge, breed recognition from thoracic radiographs had not been addressed before.
+- **Breed classification**: a multi-class problem over 10 breeds.
 
 Two learning paradigms are compared:
 
@@ -96,6 +99,8 @@ Professor Sebastiano Battiato, Co-supervisor.
 Dr. Riccardo Raciti, Co-supervisor.
 
 ## License
+
+Dataset: Creative Commons Attribution 4.0 International
 
 
 
