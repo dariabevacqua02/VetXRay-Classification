@@ -100,7 +100,8 @@ Dr. Riccardo Raciti, Co-supervisor, University of Catania.
 
 ## License
 
-Dataset: Creative Commons Attribution 4.0 International
+The code in this repository is released under the [MIT License](LICENSE).
+The VetXRay dataset is not covered by this license: it is distributed separately under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 
 
