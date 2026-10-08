@@ -37,3 +37,10 @@ The project is structured into two main phases, tackling both multi-label (disea
 * **Experiment Tracking:** Weights & Biases (wandb)
 
 
+## Acknowledgments
+
+This project represents the official code implementation for my Master's Thesis in Data Science at the **University of Catania**.
+
+I would like to express my gratitude to my academic supervisor, **Prof. Luca Guarnera**, and my co-supervisors, **Prof. Sebastiano Battiato** and **Dr. Riccardo Raciti**, for their continuous guidance, expertise, and support throughout this research.
+
+
