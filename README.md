@@ -36,16 +36,4 @@ The project is structured into two main phases, tackling both multi-label (disea
 * **Data Manipulation & ML:** Pandas, NumPy, Scikit-learn
 * **Experiment Tracking:** Weights & Biases (wandb)
 
-## Repository Structure
-```text
-vet-xray-classification/
-├── data/                  # Sample data and metadata CSVs
-├── notebooks/             # EDA, visualization, and XAI experiments
-├── src/                   # Source code (preprocessing, models, training loops)
-│   ├── config.py          # Centralized hyperparameters and paths
-│   ├── data_prep.py       # DICOM extraction and cleaning pipeline
-│   ├── dataset.py         # PyTorch Dataset class and augmentations
-│   ├── models.py          # Encoders and Classification Head architectures
-│   └── train.py           # Main training loop with W&B integration
-├── requirements.txt       # Project dependencies
-└── README.md
+
