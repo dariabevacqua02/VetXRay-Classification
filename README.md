@@ -94,9 +94,9 @@ Main findings:
 ## Author
 
 Daria Bevacqua, Master's Degree in Data Science, University of Catania.
-Professor Luca Guarnera, Academic supervisor.
-Professor Sebastiano Battiato, Co-supervisor.
-Dr. Riccardo Raciti, Co-supervisor.
+Professor Luca Guarnera, Academic supervisor, University of Catania.
+Professor Sebastiano Battiato, Co-supervisor, University of Catania.
+Dr. Riccardo Raciti, Co-supervisor, University of Catania.
 
 ## License
 
