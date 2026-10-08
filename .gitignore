@@ -218,3 +218,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Dati e Cache
+data/
+cache_224/
+*.csv
+*.parquet
+*.dcm
+*.png
+
+# Deep Learning & Tracking
+*.pth
+*.pt
+wandb/
+multiseed_disease_TEST.json
